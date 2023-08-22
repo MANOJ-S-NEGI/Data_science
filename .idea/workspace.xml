@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf01c134-99b3-4467-a8b0-744ac423764f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/Decision_tree.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/KNN,SVC,Stacking .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/grid_search,Bagging_classifier,Random_forest.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/logical regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/logistic_regression_movement sensor dataset_.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/DB Mongo_command.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/SQL_DATABASE_API.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/cassandra_python_connectivity.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/data_fetching.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/file_handling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/file_handling_comp.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/opps.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/opps_2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/py_mysql_database_connection.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/pymongo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/python_basics_prac.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron lecture prac/python/python_sql_connect.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment _16.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_14.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_17.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_19.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_25.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assignment_9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assisment_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/Assisment_25.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/assignment_15.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/assignment_18.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/basic_python_assignment_24.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/pyinputplus.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/python basic_assignment 23.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/python basic_assignment_22.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/python_basic_assisment_21.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_1/pythonbasic Assignment_20.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/Assignment_01.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/Assignment_02.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/Assignment_03.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/Assignment_04.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/Assignment_05.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/Assignment_06.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/Assignment_07.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/Assignment_08.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/p2_ Assignment_21.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/p2_Assignment_18.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/p2_Assignment_20.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/p2_Assignment_22.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/p2_Assignment_23.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/p2_Assingment_19.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/assignment p2_python/p2_Assingment_24.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/Python_basic/assignment_2/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prime_generator.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2UKy3GISKEgPg0USenQ8ddbnImt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf01c134-99b3-4467-a8b0-744ac423764f" name="Changes" comment="" />
+      <created>1692702365610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692702365610</updated>
+    </task>
+    <servers />
+  </component>
+</project>
