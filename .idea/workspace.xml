@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf01c134-99b3-4467-a8b0-744ac423764f" name="Changes" comment="" />
+    <list default="true" id="bf01c134-99b3-4467-a8b0-744ac423764f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_01.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_01.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_02.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_02.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_03.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_03.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_04.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_04.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_05.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_05.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_06.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_06.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_07.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ineuron_course _assignment/ml_Assignment/ML_ASSISMENT_07.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
